@@ -1,0 +1,16 @@
+{
+    "eventID": "EV005",
+    "batchID": "LOT005",
+    "eventType": "SEED_STOCKING",
+    "actorID": "F003",
+    "timestamp": "2026-03-30T08:00:00",
+    "data": {
+        "seedLotID": "LOT005",
+        "speciesCode": "GIT",
+        "supplier": "Tập đoàn Thủy sản Việt Úc",
+        "pondID": "P005",
+        "farmID": "F003",
+        "farmName": "Trại nuôi Bạc Liêu",
+        "quantity": 130000
+    }
+}

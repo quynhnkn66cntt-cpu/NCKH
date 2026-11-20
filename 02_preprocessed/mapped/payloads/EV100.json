@@ -1,0 +1,14 @@
+{
+    "eventID": "EV100",
+    "batchID": "H004",
+    "eventType": "HARVEST",
+    "actorID": "F002",
+    "timestamp": "2026-06-21T06:15:00",
+    "data": {
+        "harvestLotID": "H004",
+        "pondID": "P004",
+        "farmID": "F002",
+        "quantityKg": 3000.0,
+        "qualityNote": "Đạt chuẩn, kích cỡ khá đồng đều"
+    }
+}

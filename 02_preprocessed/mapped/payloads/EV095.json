@@ -1,0 +1,15 @@
+{
+    "eventID": "EV095",
+    "batchID": "TR015",
+    "eventType": "TREATMENT",
+    "actorID": "F003",
+    "timestamp": "2026-05-20T08:00:00",
+    "data": {
+        "treatmentID": "TR015",
+        "productName": "Khoáng tổng hợp",
+        "purpose": "Hỗ trợ tôm lột xác",
+        "pondID": "P005",
+        "farmID": "F003",
+        "dosage": "1 kg/1000 m3"
+    }
+}

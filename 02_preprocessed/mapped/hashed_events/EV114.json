@@ -1,0 +1,16 @@
+{
+    "eventID": "EV114",
+    "batchID": "DL003",
+    "eventType": "DISTRIBUTION",
+    "actorID": "D002",
+    "timestamp": "2026-05-31T06:15:00",
+    "data": {
+        "distributionLotID": "DL003",
+        "shipmentID": "S003",
+        "receiverID": "D002",
+        "market": "Đà Nẵng"
+    },
+    "dataHash": "f16593ca7f9b258f8833325346806db995c249220d7eebd796289632c45dacff",
+    "previousEventHash": "fca290b84c79ad3d7b330f2f82506ea48955deaf9f30c772cb2596dfbb605b80",
+    "currentHash": "cd40dbf4b9a30983667f195c7ef5bcd7e0466575720a90c1720fab1a96c2bbc7"
+}

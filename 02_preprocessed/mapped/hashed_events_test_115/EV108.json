@@ -1,0 +1,16 @@
+{
+    "eventID": "EV108",
+    "batchID": "S002",
+    "eventType": "SHIPPING",
+    "actorID": "T002",
+    "timestamp": "2026-05-30T20:30:00",
+    "data": {
+        "shipmentID": "S002",
+        "processingLotID": "PR002",
+        "transporterID": "T002",
+        "destination": "TP.HCM"
+    },
+    "dataHash": "76d59fe71d51c4346ead2db2b65f6a95fd1abdc58f994d321f61c8d64f63650a",
+    "previousEventHash": "d0e677974348df864b4d882cc5689c3714c09d97ccd927c4d2e2e028aa327e1e",
+    "currentHash": "93482d06c73c44d30d0d9fc991ddfe4839956fe3c348640566c132d6f34c1fc9"
+}

@@ -1,0 +1,16 @@
+{
+    "eventID": "EV001",
+    "batchID": "LOT001",
+    "eventType": "SEED_STOCKING",
+    "actorID": "F001",
+    "timestamp": "2026-02-20T08:00:00",
+    "data": {
+        "seedLotID": "LOT001",
+        "speciesCode": "GIT",
+        "supplier": "Tập đoàn Thủy sản Việt Úc",
+        "pondID": "P001",
+        "farmID": "F001",
+        "farmName": "Trại nuôi Sóc Trăng",
+        "quantity": 120000
+    }
+}

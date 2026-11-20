@@ -1,0 +1,16 @@
+{
+    "eventID": "EV110",
+    "batchID": "S004",
+    "eventType": "SHIPPING",
+    "actorID": "T003",
+    "timestamp": "2026-06-21T18:00:00",
+    "data": {
+        "shipmentID": "S004",
+        "processingLotID": "PR004",
+        "transporterID": "T003",
+        "destination": "Cà Mau"
+    },
+    "dataHash": "45c4bbb2118c671a669a3111184872381eaebc547f905da88321be37a87c00ac",
+    "previousEventHash": "b03ae1f5735f4f9e94fed10e281fb3a7ebdfd33e9c23412d0f920313986d55da",
+    "currentHash": "5b1c8d641262e7bf81e407a302c52ad7f35430f7d2c56acd34ac04efdf42c4c7"
+}

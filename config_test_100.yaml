@@ -1,0 +1,23 @@
+project:
+  root_dir: .
+demo:
+  base_url: https://investment-gravity-publication-greensboro.trycloudflare.com
+paths:
+  source_csv: generated_events
+  ontology_input: 03_ontology/owl/ontology_backup_before_merge.owl
+  ontology_output: 03_ontology/owl/ontology_test_100.owl
+  ontology_blockchain: 03_ontology/owl/ontology_3_blockchain_enriched.owl
+  blockchain_metadata: 04_blockchain/results/blockchain_metadata_with_blocks.csv
+  shacl_shapes: 03_ontology/shacl/traceability_shapes.ttl
+  sparql_blockchain_metadata: 03_ontology/sparql/blockchain_metadata_check.rq
+  sparql_batch_journey: 03_ontology/sparql/batch_journey.rq
+  blockchain_ev001: 04_blockchain/results/EV001_blockchain.json
+  ledger_events: 04_blockchain/results/ledger_events
+  hashed_events: 02_preprocessed/mapped/hashed_events_test_100
+  payloads: 02_preprocessed/mapped/payloads
+  query_performance: 04_blockchain/results/query_performance.csv
+  write_performance: 04_blockchain/results/write_performance.csv
+  experiment_summary: 04_blockchain/results/experiment_summary.csv
+  qr_codes: 05_demo/qr_codes
+  qr_urls: 05_demo/qr_urls
+  logs: logs/test_100

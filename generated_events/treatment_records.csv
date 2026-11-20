@@ -1,0 +1,17 @@
+treatment_id,pond_id,product_name,purpose,date_used,dosage
+TR001,P001,Men vi sinh,Ổn định chất lượng nước,2026-03-03T08:00:00,2 kg/1000 m3
+TR002,P001,Khoáng tổng hợp,Hỗ trợ tôm lột xác,2026-03-30T08:00:00,1 kg/1000 m3
+TR003,P001,Vitamin C,Tăng sức đề kháng,2026-05-10T08:00:00,5 g/kg thức ăn
+TR004,P003,Men vi sinh,Xử lý chất hữu cơ đáy ao,2026-03-30T08:00:00,2 kg/1000 m3
+TR005,P003,Zeolite,Hấp phụ khí độc và cải thiện đáy ao,2026-04-20T08:00:00,10 kg/1000 m3
+TR006,P003,Yucca extract,Giảm khí độc NH3 trong ao,2026-05-01T08:00:00,200 ml/1000 m3
+TR007,P003,Khoáng tổng hợp,Hỗ trợ tôm lột xác,2026-05-09T08:00:00,1 kg/1000 m3
+TR008,P003,Vitamin C,Tăng sức đề kháng,2026-05-15T08:00:00,5 g/kg thức ăn
+TR009,P004,Men vi sinh,Ổn định chất lượng nước,2026-04-22T08:00:00,2 kg/1000 m3
+TR010,P004,Khoáng tổng hợp,Hỗ trợ tôm lột xác,2026-05-15T08:00:00,1 kg/1000 m3
+TR011,P004,Zeolite,Hấp phụ khí độc và cải thiện đáy ao,2026-05-30T08:00:00,10 kg/1000 m3
+TR012,P004,Vitamin C,Tăng sức đề kháng,2026-06-07T08:00:00,5 g/kg thức ăn
+TR013,P005,Men vi sinh,Ổn định chất lượng nước,2026-04-10T08:00:00,2 kg/1000 m3
+TR014,P005,Yucca extract,Giảm khí độc NH3 trong ao,2026-05-05T08:00:00,200 ml/1000 m3
+TR015,P005,Khoáng tổng hợp,Hỗ trợ tôm lột xác,2026-05-20T08:00:00,1 kg/1000 m3
+TR016,P005,Vitamin C,Tăng sức đề kháng,2026-06-01T08:00:00,5 g/kg thức ăn

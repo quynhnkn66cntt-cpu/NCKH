@@ -1,0 +1,16 @@
+{
+    "eventID": "EV102",
+    "batchID": "PR001",
+    "eventType": "PROCESSING",
+    "actorID": "PL001",
+    "timestamp": "2026-05-25T15:00:00",
+    "data": {
+        "processingLotID": "PR001",
+        "harvestLotID": "H001",
+        "plantID": "PL001",
+        "output_Qty": 2200.0
+    },
+    "dataHash": "aae10077c7e07bc4c87a15ff7b0a7438cf5db0eed7eb4f0a773b04d2f3947c73",
+    "previousEventHash": "80d25aa04d82eac4a08c79ed4f71dd17bf9a65961b56084eb14179e64b27ac5d",
+    "currentHash": "6c47c4f65df87de80ca3d910874ba0a7500185b122821da11a4fe58bdf138ef8"
+}

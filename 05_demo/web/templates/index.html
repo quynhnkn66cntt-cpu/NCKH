@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Truy xuất nguồn gốc tôm nuôi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background: #f5f7fa;
+        }
+        h1 { color: #176b87; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+        th { background: #d9edf7; }
+        button {
+            padding: 8px 12px;
+            cursor: pointer;
+        }
+        .hash {
+            max-width: 180px;
+            overflow-wrap: anywhere;
+        }
+        .valid { color: green; font-weight: bold; }
+        .tampered { color: red; font-weight: bold; }
+        .unverified { color: #666; }
+    </style>
+</head>
+<body>
+
+<h1>HỆ THỐNG TRUY XUẤT NGUỒN GỐC TÔM NUÔI</h1>
+<p>Blockchain kết hợp Ontology</p>
+
+<form method="get" action="/">
+    <label for="lot">Mã lô phân phối:</label>
+    <input
+        id="lot"
+        type="text"
+        name="lot"
+        placeholder="Ví dụ: DL001"
+        value="{{ lot_id }}"
+        required
+    >
+    <button type="submit">Truy xuất</button>
+</form>
+
+{% if lot_id and events is none %}
+    <h3>Không tìm thấy mã lô {{ lot_id }}</h3>
+{% elif events is not none %}
+    <h2>Kết quả truy xuất: {{ lot_id }}</h2>
+    <p>Tổng số sự kiện: {{ events|length }}</p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Event</th>
+                <th>Loại sự kiện</th>
+                <th>Thời gian</th>
+                <th>Actor</th>
+                <th>Block</th>
+                <th>TxHash</th>
+                <th>Integrity</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for event in events %}
+            <tr>
+                <td>{{ event.eventID }}</td>
+                <td>{{ event.eventType }}</td>
+                <td>{{ event.timestamp }}</td>
+                <td>{{ event.actor }}</td>
+                <td>{{ event.blockNumber }}</td>
+                <td class="hash">{{ event.txHash }}</td>
+                <td>
+                    <button
+                        type="button"
+                        class="verify-btn"
+                        data-event-id="{{ event.eventID }}"
+                    >
+                        Verify integrity
+                    </button>
+                    <span
+                        class="unverified"
+                        id="status-{{ event.eventID }}"
+                    >UNVERIFIED</span>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endif %}
+
+<script>
+document.querySelectorAll(".verify-btn").forEach(button => {
+    button.addEventListener("click", async () => {
+        const eventID = button.dataset.eventId;
+        const status = document.getElementById("status-" + eventID);
+
+        status.textContent = "VERIFYING...";
+        status.className = "unverified";
+        button.disabled = true;
+
+        try {
+            const response = await fetch(
+                "/verify/" + encodeURIComponent(eventID)
+            );
+            const result = await response.json();
+
+            if (!response.ok) {
+                throw new Error(result.message || "Verification failed");
+            }
+
+            status.textContent = result.status;
+            status.className =
+                result.status === "VALID" ? "valid" :
+                result.status === "TAMPERED" ? "tampered" :
+                "unverified";
+        } catch (error) {
+            status.textContent = "ERROR";
+            status.className = "unverified";
+            status.title = error.message;
+        } finally {
+            button.disabled = false;
+        }
+    });
+});
+</script>
+
+</body>
+</html>

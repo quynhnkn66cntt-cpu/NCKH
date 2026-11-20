@@ -1,0 +1,14 @@
+﻿Metric,Count
+Total triples,3825
+OWL classes,22
+Object properties,23
+Datatype properties,51
+Named individuals,257
+TraceabilityEvent,116
+StockingEvent,5
+FeedingEvent,75
+TreatmentEvent,16
+HarvestEvent,5
+ProcessingEvent,5
+ShipmentEvent,5
+DistributionEvent,5

@@ -1,0 +1,13 @@
+{
+    "eventID": "EV112",
+    "batchID": "DL001",
+    "eventType": "DISTRIBUTION",
+    "actorID": "D001",
+    "timestamp": "2026-05-27T06:00:00",
+    "data": {
+        "distributionLotID": "DL001",
+        "shipmentID": "S001",
+        "receiverID": "D001",
+        "market": "TP.HCM"
+    }
+}

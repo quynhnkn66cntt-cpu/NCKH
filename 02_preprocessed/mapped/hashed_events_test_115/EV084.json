@@ -1,0 +1,18 @@
+{
+    "eventID": "EV084",
+    "batchID": "TR004",
+    "eventType": "TREATMENT",
+    "actorID": "F002",
+    "timestamp": "2026-03-30T08:00:00",
+    "data": {
+        "treatmentID": "TR004",
+        "productName": "Men vi sinh",
+        "purpose": "Xử lý chất hữu cơ đáy ao",
+        "pondID": "P003",
+        "farmID": "F002",
+        "dosage": "2 kg/1000 m3"
+    },
+    "dataHash": "2ad3e558ecc1b2847ffbaa95927f4c0b3b64ddc4a2e097780006a6ac42a4975d",
+    "previousEventHash": "2b7e888498d375ad6a1a1aa16380b3fd6dde1f3c6a2117fa5281291eb7b3318e",
+    "currentHash": "9ab3da0f095b373a29ddb9b6d8fdbb54ad5fb1dee0c0b11cad8eee50da976500"
+}

@@ -1,0 +1,1516 @@
+
+[1/116] Checking EV001
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV001
+Fabric txId: 681447a5d1f5fdff38ae07dfebb3b9461eaa0032868aaaefd115d10aebebaf69
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[2/116] Checking EV002
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV002
+Fabric txId: c440945fe9137f24a9e48103f123a1a369f05e20cb324f039f6b9b9e96ad18c0
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[3/116] Checking EV003
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV003
+Fabric txId: ac9e4ed3e7dece9bf7a0ab423cf87164f1b20f7877fcd8e36fe66273787715e3
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[4/116] Checking EV004
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV004
+Fabric txId: 4105b0b3c1c9ab82b56694eb165273367dcadb87dda4bc8f2012bb2243628a22
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[5/116] Checking EV005
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV005
+Fabric txId: d02cbb79795ff86a02ef8a05087a8386ecee190b644ba887348e39158651ff35
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[6/116] Checking EV006
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV006
+Fabric txId: d20b0b6280f3ed678fe7a2eadc3db3043cd2cd5f33e1740d926e7789e0fb4765
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[7/116] Checking EV007
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV007
+Fabric txId: e5ee32a91a25fc6fc5d40db93eb9c6469bb25467ee03f9da0e304afb615af417
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[8/116] Checking EV008
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV008
+Fabric txId: af5bc316ef7ce75f0a4c18fabed76411f765031e008d6da5ef886169b874287c
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[9/116] Checking EV009
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV009
+Fabric txId: 55556c6729420ad9d603e0fbc5ab41fa7b9d97947b8aae2124a1517376c0ce8b
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[10/116] Checking EV010
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV010
+Fabric txId: c364e70872fb51a38439431767056214545d7dc37810c3b7eed86b6ed8088a36
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[11/116] Checking EV011
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV011
+Fabric txId: a5f6ea37c3bc800c6dc3ad7c9fcaf20c6aa30a588b153190500dec34c99570b9
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[12/116] Checking EV012
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV012
+Fabric txId: cb61f9655dca005f9076c21f31b2aa43ae7394a2511faa817faa3466ed3bd8fa
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[13/116] Checking EV013
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV013
+Fabric txId: 575fb1c75895320e4a7deb4538bb4583b047187442473139076e44dfb49051a9
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[14/116] Checking EV014
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV014
+Fabric txId: 5b5aadcb44fb7279c8258dbf4fa928b3d424b4cdace37fdf8951681e08c21255
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[15/116] Checking EV015
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV015
+Fabric txId: 46f722bd7abe0d91df14ef909059c49d403cb585b9d728269055a0d650f3e451
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[16/116] Checking EV016
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV016
+Fabric txId: 1f89fb92ddaae1e16e853aa360b21fbb003a65cd1a4709db9c9e53eeb01ba9fe
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[17/116] Checking EV017
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV017
+Fabric txId: 4d7c89a4d6f89fa5bb67fd90a8aed0e4014431712d271342a6bae4f11c7ca76b
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[18/116] Checking EV018
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV018
+Fabric txId: c473770ebbc011dab3355e9890123b35e3f34565ce2a1fb4d0c083f9307e0cd1
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[19/116] Checking EV019
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV019
+Fabric txId: 6cecd8e76ff58e13970eca73e36e4652d54940a964ab7ba72a4f2ba02457f807
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[20/116] Checking EV020
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV020
+Fabric txId: d5199d3ef56c0f6f270d24d8accb029f66401b765f9f372b34d463ee7b67e8ad
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[21/116] Checking EV021
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV021
+Fabric txId: 32f3f48ccec39adba9a12a1904fc4553cfa0826adb2b05ca6064b90498060e48
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[22/116] Checking EV022
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV022
+Fabric txId: 0c361e0a1be6549a37ebf2c1470358b5cdb3232bedbc60b2c53324425d463216
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[23/116] Checking EV023
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV023
+Fabric txId: 7142bc2b84c9622797bf1e88677889477901ebe32cd06c413e732d73e0718952
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[24/116] Checking EV024
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV024
+Fabric txId: f61530a1d98a6d9285d4cb7a74ee232790b0bfb89b44453db3770f4e406f9e4a
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[25/116] Checking EV025
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV025
+Fabric txId: 3798d3fb4e62f0d58313ae90306bbb57637796080b1bf9c6a313c8a472e3cf48
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[26/116] Checking EV026
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV026
+Fabric txId: 08f41a4697cc926a81e388124b835fa127aeac6e6afebedae469f854886058c1
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[27/116] Checking EV027
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV027
+Fabric txId: f9d79c42b3f8c1eeedb39167c8620b1c420cb1ef4964359947a4751068f7fd3b
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[28/116] Checking EV028
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV028
+Fabric txId: 23886456bf0da0f96d19f36b379d1ea6b705a3c0ed883c73897ada732de9a662
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[29/116] Checking EV029
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV029
+Fabric txId: 55aa9b0f00ed3758c8976f1f3c4c8faa16a654438d92a843586cd9afa01bfa25
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[30/116] Checking EV030
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV030
+Fabric txId: b3ff42ea0da478f33a0545bac8dff6dec5a82a66ee94ea44e2fb8b5e3ff33d8d
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[31/116] Checking EV031
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV031
+Fabric txId: 9371c237b8ef5f42951777718b72aabe4134259f2595dc9817123ba114bfd6b2
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[32/116] Checking EV032
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV032
+Fabric txId: 752a681152df8a0dc7bdd22bfa7c08e607ecb786e969f3d687fc6a873f32e423
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[33/116] Checking EV033
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV033
+Fabric txId: f6b9c7cd2954c47c5c6eff8c7f1cd81b5cc2ba2fcafaf94024ff69a0092bd1da
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[34/116] Checking EV034
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV034
+Fabric txId: 2e03e9aa0cc25eaaa82c5b2da0f4d3396e69ee6f5215dedd90cf31ae6627a3bb
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[35/116] Checking EV035
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV035
+Fabric txId: 403d34f38f00b5fde0b7726c0be6ba2d799e6502dc1fe7d0c0f98e956044e5d1
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[36/116] Checking EV036
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV036
+Fabric txId: c42d77602afd42111dfb3f41d57580822e65e5e1b4a224edc46f99868c24e122
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[37/116] Checking EV037
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV037
+Fabric txId: cae97a9fc1e2b59a26a669e7fad095fd1fd786722be11add6cd384499e0ec6f1
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[38/116] Checking EV038
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV038
+Fabric txId: fe9eff529edbb95e4079b9f103c84930323a9f3dbb00a8b5851c42c67607d194
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[39/116] Checking EV039
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV039
+Fabric txId: 46782d9f3da7993efd0b5f560bbd25e12f7f472dfedad9862109f24f0e1239f5
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[40/116] Checking EV040
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV040
+Fabric txId: 2e66cfcec91abc3765138d53932c7d4d3657cf2b8bdce622a0018d2cde8a600f
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[41/116] Checking EV041
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV041
+Fabric txId: 4bc5d8074b77cf15a321c7d29fe0d7a776907309e850f63e4255624acc42e837
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[42/116] Checking EV042
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV042
+Fabric txId: 0ab82c5aedc77a21873425f4161a7a2e014f5ac81d5416ded7742c9dd97480df
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[43/116] Checking EV043
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV043
+Fabric txId: 83cc293ac0a053c1f8fc8ef6d630a328727a27868d97930495a5b8273be0a490
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[44/116] Checking EV044
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV044
+Fabric txId: 6d5383efc9a2f4cba4ec783d2264c5e245c9004ded433b262da9eef4eef9989f
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[45/116] Checking EV045
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV045
+Fabric txId: aa9d5dc9e16187d51277b1bfa825674308226cd84cb380422706f84ec39615b1
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[46/116] Checking EV046
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV046
+Fabric txId: 641c7e9e231c75d5d26c252c2f5be52925a03e80c8da6d14665d6699fac90f44
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[47/116] Checking EV047
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV047
+Fabric txId: d94b9c93c27eb2c25da683e2663f8f48ac6e1d8128dd8fee9b365e6d93354504
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[48/116] Checking EV048
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV048
+Fabric txId: e736c0b9e9c558a3476778fea00547210e4c9e691a15e813b05bfc0bbf595605
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[49/116] Checking EV049
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV049
+Fabric txId: 03e2a22a2f1968c93f0310372ec4694329559fdc257922dd6639462983d0b0ee
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[50/116] Checking EV050
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV050
+Fabric txId: d2ee26e7f10fe9767284e65b68a8cf05f73b76d4b2d10f615a28832e2612ddf7
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[51/116] Checking EV051
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV051
+Fabric txId: 24332ac782459a8057158182171d2ecc99936b62871b4c3281f5f2978085243a
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[52/116] Checking EV052
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV052
+Fabric txId: ff69ac6a900238911b1c909eb13ca51f2342e2f0d52b5a641dd438a039d8ce30
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[53/116] Checking EV053
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV053
+Fabric txId: 094b19bcfe115c6651302d5664dd4a802c7fdad047c2668f4eacc784f346d783
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[54/116] Checking EV054
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV054
+Fabric txId: 44195b5efb79fc020ce862546f068df336d41bba6042a82bb648fee576ea3d37
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[55/116] Checking EV055
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV055
+Fabric txId: f4943a9a5d67fb4c00df1a12d9dcde20b6e6145185cafada412f6b8d086944d3
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[56/116] Checking EV056
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV056
+Fabric txId: eb20889ee9bc729f6a24786e9e298f1625b59f97181cdbe62f362507c225ae56
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[57/116] Checking EV057
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV057
+Fabric txId: 2d6e7bfba0a2bb260803d4aed8d74551b997ec6c6b18d1a9104b82198d9521cd
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[58/116] Checking EV058
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV058
+Fabric txId: cde795f47deec888e2bca18f8e247fd8350a48a17059cee47598742cd594f6c3
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[59/116] Checking EV059
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV059
+Fabric txId: 45c2e56cfac7aa29b824299ffb7cedf99ccb8e151439546324453a0087190db8
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[60/116] Checking EV060
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV060
+Fabric txId: b9c5a1b3592b317030b93ebb1a8fe79098b7a0d81018be3eedbf07cb81a688c2
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[61/116] Checking EV061
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV061
+Fabric txId: b158395e557e2ed34163f2e6b30c737e70aad908df433b1074be4fda205c5657
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[62/116] Checking EV062
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV062
+Fabric txId: 907b166caae4127f2733151c67d424add22caabdff78f2b2853f1183a2899160
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[63/116] Checking EV063
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV063
+Fabric txId: d3ee9893aeb101dfdb3e5ef725656c8b1c75615604e118b575a261501dcf5c05
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[64/116] Checking EV064
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV064
+Fabric txId: f28cea4af7546707f82ebfc8946d4d52ac5ce784cbac74ed98aed78a9f661dbd
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[65/116] Checking EV065
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV065
+Fabric txId: f66d184ce42fe4fa4e2873cee9cb8f2d26c11e926388ee30a9b952a7acf08b65
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[66/116] Checking EV066
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV066
+Fabric txId: 6a0d91e126eb9fd66850adbf804ec14b93389af0940e933d33ad26c4fa19ed34
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[67/116] Checking EV067
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV067
+Fabric txId: 6b21ad24c2c7f08b225337e91d03566c6c535d418489832927002cecc3442c49
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[68/116] Checking EV068
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV068
+Fabric txId: d4f8cd3111c512705abe51818146e1a187210d74633bd8d32f024d04b2f82250
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[69/116] Checking EV069
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV069
+Fabric txId: 3ee96e0c1d6625aee7284c52617157fbe5beb3d757ce7ee2d83862033047b496
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[70/116] Checking EV070
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV070
+Fabric txId: 4c47eb8d0551e9379d6d5a8d7b8a8f35edf4000ba9a1dbb3bb5e38aa10eb71a7
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[71/116] Checking EV071
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV071
+Fabric txId: e2b8b34224c8b779b8826a366eda832ba0a1c2177a4d9e5a202ab8cbee0c796f
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[72/116] Checking EV072
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV072
+Fabric txId: 2bd2689e806e8cbafa3b94c0b64ebb4e3930fdb8e8e239ae03fa3ec92a928e0c
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[73/116] Checking EV073
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV073
+Fabric txId: 0c2f848c5ad20198804dcf980b4fcff5f2511da10db3ca62c5cca9dc9b4bcfd7
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[74/116] Checking EV074
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV074
+Fabric txId: 84b55d7f08a21d9f3760fa5939e11f4a1224dfbfea23d4f0573391f9762a8d98
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[75/116] Checking EV075
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV075
+Fabric txId: 339a4b36482c402d5ffc33b7d3030efff12a885ca171780113623e2f8421aa59
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[76/116] Checking EV076
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV076
+Fabric txId: fe9eec423d58788ad564d589c856c2d29cdca2938f47b0b69a43dcad3a5f1e1b
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[77/116] Checking EV077
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV077
+Fabric txId: 047c0ed3e872bbc83713e97ebe52eb4929348721dfefa4e6f0480ab6bfcfacbb
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[78/116] Checking EV078
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV078
+Fabric txId: d034cdb9e2adaabf433d992b7c7998613fe847ad3edddb090d89d4fb32c4e597
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[79/116] Checking EV079
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV079
+Fabric txId: 85e478839cea9006a90469077ce56339b52499e4c8721bdd350a6b2cb6310b54
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[80/116] Checking EV080
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV080
+Fabric txId: f2420d702c8cdc9cd97fe19889edf2263fff552f3972e71db929a22e805297af
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[81/116] Checking EV081
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV081
+Fabric txId: 5c8036b1768335ebdc71a722f3dae96e9b9781928b2a4b39f55c303fb3130ace
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[82/116] Checking EV082
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV082
+Fabric txId: 9955996aec7196c83b0e4a22529de18ebebd6a032f11f1d712e62af477e9b37c
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[83/116] Checking EV083
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV083
+Fabric txId: 9d18a5c621b64f323ec86bdc5e99351ef9ecb091a5690def5711b1c0f61096e3
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[84/116] Checking EV084
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV084
+Fabric txId: 5c06727d4f16807b05f72cb2b65b297097a4ce52a1e3dcec09a13b3fc4a86d90
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[85/116] Checking EV085
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV085
+Fabric txId: ba2f4f21ec91a97645779cfdd6fe4eb494f4bedd5da072db51c970fa9c4a2d25
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[86/116] Checking EV086
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV086
+Fabric txId: af7cd33194a1dd75b6cdb419363f68c4af4b74bb5929aea62b766ab5bdfab101
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[87/116] Checking EV087
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV087
+Fabric txId: e33adbbdf45c0845bcc043104cc9eeae61bee54204f9353bad96af07c848f048
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[88/116] Checking EV088
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV088
+Fabric txId: 2a3b4710ca4fed7dcf6730a6e96b713a7388f714d8310a551930ddf303ef19ff
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[89/116] Checking EV089
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV089
+Fabric txId: 0c385fbf28ab51c3a12cbe73404f8749f614b24625aa44adadf5c8c5ba952292
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[90/116] Checking EV090
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV090
+Fabric txId: 3fa86d828554607feb4146206d8c86b24707e1189ce31600f9a80d9c8a58aa27
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[91/116] Checking EV091
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV091
+Fabric txId: 00c37c51980e64d6e638b6119a0660d2ba97776c6f18b337888729c3d67163d6
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[92/116] Checking EV092
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV092
+Fabric txId: 55eb94b57cf655caa9c4a2db41e187a599e0a10654f0293d20fd1f279ba93e1c
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[93/116] Checking EV093
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV093
+Fabric txId: eebbf116d1efda9fb7d0750fcd8e1163b9da3afeffd301ebff9c71963f749109
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[94/116] Checking EV094
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV094
+Fabric txId: fa2875011524e8d1aaa9607dde993367aba581f236795cb7b846aaca5237247d
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[95/116] Checking EV095
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV095
+Fabric txId: a80feb78bf1d29283888da215af249cad3e2775e5db60ecbb13e642451a1bb9a
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[96/116] Checking EV096
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV096
+Fabric txId: cd49e55245d00e45432a8e023f3aec750d4ab07417c767771ab40aec6932ecb9
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[97/116] Checking EV097
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV097
+Fabric txId: 8464064fb9d5300dadd7f4f7302a89cc5d57e462618a4f94360193d220d98d69
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[98/116] Checking EV098
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV098
+Fabric txId: 09f6fde606a0a8dccf1567c471d28469b4891a034dcbfccbb30bd0414fbddbf2
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[99/116] Checking EV099
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV099
+Fabric txId: df47bc30b33ad7bcbfa1c8cbfec1413e43c6f60d241bfd421efc770a07d0791a
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[100/116] Checking EV100
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV100
+Fabric txId: ad229c7dc22ed71a3cfaf241de2ab85ec2b798c70b112311b87bc15f447ae3b7
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[101/116] Checking EV101
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV101
+Fabric txId: aad39c4dcaee072c349ba248ffd129a5854ea71203317e5b8f6ab819c6a54328
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[102/116] Checking EV102
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV102
+Fabric txId: 5c60f98327614e17e813cb703d85d593c772fc98cb3acfc193b78b872656cc9e
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[103/116] Checking EV103
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV103
+Fabric txId: 2bc901d56689688bf985524d032f81a4231339beb4c1cf59e5b85b667c6fdda7
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[104/116] Checking EV104
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV104
+Fabric txId: 1d5f16154a236d2026bb383790dde3ecce39192afb4e4b35633b51f7cb11d2de
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[105/116] Checking EV105
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV105
+Fabric txId: 1554f7e71d6e7b050ce8fa6e5259d7fe965efb7b4ae7ac6eb6f452172651a354
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[106/116] Checking EV106
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV106
+Fabric txId: 46ceea26885e743719ac7be5152de672b0bd86cba7ec6a1cc4681ecf1a287dbb
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[107/116] Checking EV107
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV107
+Fabric txId: 663fa168c0a38bd3c26d44b53d7b8a5fa6e7f6084a901d1f3809ffe3611ec4d7
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[108/116] Checking EV108
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV108
+Fabric txId: 70e17b142cfcee01c9f15bd2b07584439be3155c5335e97c8dbb32771366926d
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[109/116] Checking EV109
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV109
+Fabric txId: 3a7c4f82a74f6fa4df068afc8a6e05a3b756160808be7294d2be11ea57d4ed2a
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[110/116] Checking EV110
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV110
+Fabric txId: 3da1305c31886a7bd048b909d6a8654a2ac97331975d8c6f7a7649f72898b118
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[111/116] Checking EV111
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV111
+Fabric txId: a00d14cddb27df5ec313359cb19aee196379a346edc31432a7e3e0a725adfc55
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[112/116] Checking EV112
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV112
+Fabric txId: 8ec094e70a228b3bcfc3fc87aae9da3427542b3ea12e725f85d9d13540667bc7
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[113/116] Checking EV113
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV113
+Fabric txId: 3384902aaccf19db1416dafd5f84367943ac245777981b2f055c71cbbfb243f0
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[114/116] Checking EV114
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV114
+Fabric txId: 660d3c971c3855eb4bb717168acb53b43d5a9a6288e64f44ee15b4ed6930b64a
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[115/116] Checking EV115
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV115
+Fabric txId: a710050a1fce465ea6e0b12b8f0cf1f2bdd032fd95d14dfaa5598c875717e54d
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+[116/116] Checking EV116
+
+====================================
+LIVE FABRIC INTEGRITY VERIFICATION
+====================================
+Event ID: EV116
+Fabric txId: c2996d7401ac8c9d34b13c34e32224e4ba786b84add9e59a48864fcd012a5eef
+dataHash match: True
+currentHash match: True
+Event fields match: True
+
+VALID: Off-chain event matches live Fabric ledger.
+
+====================================
+LIVE FABRIC VERIFICATION SUMMARY
+====================================
+Total events : 116
+Valid        : 116
+Invalid/error: 0
+Integrity rate: 100.00%

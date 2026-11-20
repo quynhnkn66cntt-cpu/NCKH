@@ -1,0 +1,13 @@
+actor_id,actor_name,actor_type,location,contact
+F001,Trại nuôi Sóc Trăng,Farm,Sóc Trăng,farm01@example.com
+F002,Trại nuôi Cà Mau,Farm,Cà Mau,farm02@example.com
+F003,Trại nuôi Bạc Liêu,Farm,Bạc Liêu,farm03@example.com
+PL001,Công ty Cổ phần Tập đoàn Thủy sản Minh Phú,ProcessingPlant,Cà Mau,contact@minhphu.com
+PL002,Công ty Cổ phần Thủy sản Sóc Trăng (Stapimex),ProcessingPlant,Sóc Trăng,info@stapimex.com.vn
+PL003,Công ty Cổ phần Thực phẩm Sao Ta (Fimex VN),ProcessingPlant,Sóc Trăng,info@fimexvn.com
+T001,Gemadept Logistics,Transporter,TP. Hồ Chí Minh,contact@gemadept.com.vn
+T002,ITL Logistics,Transporter,TP. Hồ Chí Minh,info@itlvn.com
+T003,ABA Cooltrans,Transporter,TP. Hồ Chí Minh,info@abacooltrans.com
+T004,Mekong Logistics,Transporter,Cần Thơ,info@mkg.com.vn
+D001,Mekong Seafood Connection (Meksea),Distributor,TP. Hồ Chí Minh,hoang@mekseaconnection.com
+D002,Thuan Thuy Seafood,Distributor,Cà Mau,sales@thuanthuyseafood.com.vn

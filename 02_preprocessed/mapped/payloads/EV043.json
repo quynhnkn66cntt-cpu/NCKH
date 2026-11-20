@@ -1,0 +1,15 @@
+{
+    "eventID": "EV043",
+    "batchID": "FB038",
+    "eventType": "FEEDING",
+    "actorID": "F002",
+    "timestamp": "2026-04-24T08:00:00",
+    "data": {
+        "feedBatchID": "FB038",
+        "brand": "Grobest",
+        "feedType": "grower",
+        "pondID": "P003",
+        "farmID": "F002",
+        "quantity": 104.0
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "eventID": "EV116",
+    "batchID": "DL005",
+    "eventType": "DISTRIBUTION",
+    "actorID": "D001",
+    "timestamp": "2026-06-19T11:30:00",
+    "data": {
+        "distributionLotID": "DL005",
+        "shipmentID": "S005",
+        "receiverID": "D001",
+        "market": "Hải Phòng"
+    },
+    "dataHash": "12c7a7766597d1cc112d7d5f3844857a8d113e44ced3fbf02455bc8eaf5c5fbc",
+    "previousEventHash": "21b3b294d63eb9ef9f346c89c44945679a0097163b14db2909961713778d75be",
+    "currentHash": "be09864d36d68a0fce09e18be13dd6cb32779f3ba698142b340f45eba58bc541"
+}

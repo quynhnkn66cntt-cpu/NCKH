@@ -1,0 +1,13 @@
+{
+    "eventID": "EV116",
+    "batchID": "DL005",
+    "eventType": "DISTRIBUTION",
+    "actorID": "D001",
+    "timestamp": "2026-06-19T11:30:00",
+    "data": {
+        "distributionLotID": "DL005",
+        "shipmentID": "S005",
+        "receiverID": "D001",
+        "market": "Hải Phòng"
+    }
+}
