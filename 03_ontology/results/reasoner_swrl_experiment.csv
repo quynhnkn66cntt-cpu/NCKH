@@ -1,8 +1,0 @@
-Test,Case,Expected,Actual,Result
-HermiT consistency,ontology_3_blockchain_enriched.owl,Ontology consistent,Reasoner completed successfully,PASS
-SWRL harvest origin,HarvestLot_H001,originatesFromPond Pond_P001,Pond_P001 inferred,PASS
-SWRL processing pond origin,ProcessingLot_PR001,originatesFromPond Pond_P001,Pond_P001 inferred,PASS
-SWRL processing farm origin,ProcessingLot_PR001,originatesFromFarm Farm_F001,Farm_F001 inferred,PASS
-SWRL seed farm origin,LOT001,originatesFromFarm Farm_F001,Farm_F001 inferred,PASS
-SWRL feed farm origin,FB001,originatesFromFarm Farm_F001,Farm_F001 inferred,PASS
-SWRL shipment actor,TraceabilityEvent_EV107,performedBy Actor_T001,Actor_T001 inferred,PASS

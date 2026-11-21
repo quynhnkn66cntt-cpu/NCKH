@@ -1,6 +1,0 @@
-farm_id,farm_name,pond_id,pond_code,location,species_code
-F001,Trại nuôi Sóc Trăng,P001,AO01,Sóc Trăng,GIT
-F001,Trại nuôi Sóc Trăng,P002,AO02,Sóc Trăng,PNV
-F002,Trại nuôi Cà Mau,P003,AO01,Cà Mau,PNV
-F002,Trại nuôi Cà Mau,P004,AO02,Cà Mau,GIT
-F003,Trại nuôi Bạc Liêu,P005,AO01,Bạc Liêu,GIT

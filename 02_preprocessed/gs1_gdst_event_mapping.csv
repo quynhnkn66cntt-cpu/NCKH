@@ -1,8 +1,0 @@
-﻿EventType,CTE_tham_chieu,EPCIS_tham_chieu,KDE_hien_co,KDE_can_bo_sung
-SEED_STOCKING,Tha giong,ObjectEvent mo rong,seedLotID;speciesCode;supplier;pondID;farmID;quantity,Ma dinh danh chuan;don vi so luong;dia diem chuan
-FEEDING,Cho an,ObjectEvent mo rong,feedBatchID;brand;feedType;pondID;farmID;quantity,Ma dinh danh chuan;don vi so luong
-TREATMENT,Su dung che pham,ObjectEvent mo rong,treatmentID;productName;purpose;pondID;farmID;dosage,Ma dinh danh chuan;don vi lieu luong
-HARVEST,Thu hoach,TransformationEvent tham chieu,harvestLotID;pondID;farmID;quantityKg;qualityNote,Bieu dien dau vao-dau ra theo EPCIS
-PROCESSING,Che bien,TransformationEvent,processingLotID;harvestLotID;plantID;output_Qty,Danh sach dau vao-dau ra;don vi do
-SHIPPING,Van chuyen,ObjectEvent - shipping,shipmentID;processingLotID;transporterID;destination,Dia diem xuat;ben gui;ma dinh danh chuan
-DISTRIBUTION,Tiep nhan/phan phoi,ObjectEvent - receiving (neu phu hop),distributionLotID;shipmentID;receiverID;market,Dia diem nhan;ma dinh danh chuan
