@@ -1,0 +1,15 @@
+﻿Test,Result,Details
+Structural Audit,PASS,0 structural issues
+SHACL Validation,PASS,Conforms True
+SWRL Rules,PASS,6 expected inference results observed
+HermiT,NO ISSUES OBSERVED,Reasoner restarted without errors
+Event Completeness,PASS,116 events; no missing IDs or actors
+Event Chain,PASS,5 roots; no cycles or self-links
+Event Root Audit,PASS,116 events traced to 5 roots
+Temporal Audit,PASS,111 links; 0 time violations
+Actor Link Audit,PASS,116 events linked to declared actors
+Actor Role Audit,REVIEWED,7 plausible role combinations
+Pond Link Audit,PASS,101 events linked to 5 ponds
+Pond Type Audit,PASS,5/5 explicitly typed AoNuoi
+Lot Link Validation,PASS,35/35 valid links
+Inverse Link Validation,PASS,15/15 matched inverse links
