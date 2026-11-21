@@ -1,0 +1,15 @@
+{
+    "eventID": "EV093",
+    "batchID": "TR013",
+    "eventType": "TREATMENT",
+    "actorID": "F003",
+    "timestamp": "2026-04-10T08:00:00",
+    "data": {
+        "treatmentID": "TR013",
+        "productName": "Men vi sinh",
+        "purpose": "Ổn định chất lượng nước",
+        "pondID": "P005",
+        "farmID": "F003",
+        "dosage": "2 kg/1000 m3"
+    }
+}

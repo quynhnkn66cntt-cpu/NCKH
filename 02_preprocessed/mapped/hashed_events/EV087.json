@@ -1,0 +1,18 @@
+{
+    "eventID": "EV087",
+    "batchID": "TR007",
+    "eventType": "TREATMENT",
+    "actorID": "F002",
+    "timestamp": "2026-05-09T08:00:00",
+    "data": {
+        "treatmentID": "TR007",
+        "productName": "Khoáng tổng hợp",
+        "purpose": "Hỗ trợ tôm lột xác",
+        "pondID": "P003",
+        "farmID": "F002",
+        "dosage": "1 kg/1000 m3"
+    },
+    "dataHash": "cdccb8588aef0a238cc53b842f409ba78f84604f9bdb7eebcca60be274f9f45c",
+    "previousEventHash": "19f226e45b46129bf47bc1b597df5b991a929ce2c7fe11e454426ee81f87f677",
+    "currentHash": "7c6c0d3ddcd73dd401c3c2ed5d3b88918f8b9615e8e8c7584498c4d7d32fb9c9"
+}

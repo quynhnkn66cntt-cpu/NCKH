@@ -1,0 +1,6 @@
+harvest_lot_id,pond_id,harvest_date,quantity_kg,quality_note
+H001,P001,2026-05-25T06:30:00,2340,"Đạt chuẩn, kích cỡ 40 con/kg"
+H002,P002,2026-05-30T06:45:00,2250,"Đạt chuẩn tốt, ao khỏe mạnh cả vụ"
+H003,P003,2026-05-29T06:20:00,1485,"Đạt chuẩn, tỷ lệ sống thấp do vấn đề môi trường"
+H004,P004,2026-06-21T06:15:00,3000,"Đạt chuẩn, kích cỡ khá đồng đều"
+H005,P005,2026-06-18T06:40:00,3157,"Đạt chuẩn tốt, chỉ bổ sung dinh dưỡng định kỳ"

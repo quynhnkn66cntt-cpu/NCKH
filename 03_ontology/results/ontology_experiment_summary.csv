@@ -1,0 +1,16 @@
+﻿Category,Metric,Result,Status
+Ontology structure,Total triples,3825,PASS
+Ontology structure,OWL classes,22,PASS
+Ontology structure,Object properties,23,PASS
+Ontology structure,Datatype properties,51,PASS
+Ontology structure,Named individuals,257,PASS
+Ontology structure,TraceabilityEvent individuals,116,PASS
+SWRL,Declared rules,6,PASS
+HermiT,Ontology consistency,Consistent,PASS
+SHACL,Positive validation,Conforms True,PASS
+SHACL,Negative validation,2 violations detected,PASS
+SPARQL,Blockchain metadata retrieval,116/116 events,PASS
+Traceability,DL001 journey,25 events EV001-EV112,PASS
+Traceability,DL005 journey,24 events EV005-EV116,PASS
+Traceability,Business timestamp ordering,Validated,PASS
+SWRL,Representative inference tests,6 inference cases PASS,PASS

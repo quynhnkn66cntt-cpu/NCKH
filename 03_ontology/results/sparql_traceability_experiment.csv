@@ -1,0 +1,5 @@
+Test,Input,Expected,Actual,Result
+Blockchain metadata retrieval,116 TraceabilityEvents,116 events with txHash and blockNumber,116,PASS
+End-to-end trace DL001,DL001,Complete business journey,25 events EV001-EV112,PASS
+End-to-end trace DL005,DL005,Complete business journey,24 events EV005-EV116,PASS
+Business order validation,DL001 and DL005,Events ordered by timestamp,Timestamp order differs from ledger block order,PASS

@@ -1,0 +1,16 @@
+{
+    "eventID": "EV004",
+    "batchID": "LOT004",
+    "eventType": "SEED_STOCKING",
+    "actorID": "F002",
+    "timestamp": "2026-03-22T08:00:00",
+    "data": {
+        "seedLotID": "LOT004",
+        "speciesCode": "GIT",
+        "supplier": "Công ty TNHH Thông Thuận",
+        "pondID": "P004",
+        "farmID": "F002",
+        "farmName": "Trại nuôi Cà Mau",
+        "quantity": 150000
+    }
+}

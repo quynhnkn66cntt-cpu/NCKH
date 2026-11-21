@@ -1,0 +1,8 @@
+﻿Tiêu chí,Ontology-only,Blockchain-only,Blockchain + Ontology
+Truy vấn SPARQL,Có,Không trực tiếp,Có
+Truy xuất chuỗi nghiệp vụ,Có,Cần xử lý bổ sung,Có
+Quan hệ giữa các lô,Có,Hạn chế,Có
+Bằng chứng giao dịch Blockchain,Không,Có,Có
+Xác minh tính toàn vẹn SHA-256,Không có đối chiếu on-chain,Có,Có
+Liên kết sự kiện với giao dịch,Không,Có,Có
+Truy xuất kết hợp xác minh,Không,Không trực tiếp,Có

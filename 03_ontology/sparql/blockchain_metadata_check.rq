@@ -1,0 +1,10 @@
+PREFIX : <http://www.semanticweb.org/pc/ontologies/2026/6/shrimp-traceability#>
+
+SELECT ?event ?eventID ?txHash ?blockNumber
+WHERE {
+    ?event a :TraceabilityEvent ;
+           :eventID ?eventID ;
+           :txHash ?txHash ;
+           :blockNumber ?blockNumber .
+}
+ORDER BY ?eventID

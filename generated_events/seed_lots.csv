@@ -1,0 +1,6 @@
+seed_lot_id,species_code,supplier,stocking_date,pond_id,quantity
+LOT001,GIT,Tập đoàn Thủy sản Việt Úc,2026-02-20,P001,120000
+LOT002,PNV,Công ty Cổ phần Chăn nuôi C.P. Việt Nam,2026-03-17,P002,100000
+LOT003,PNV,Tập đoàn Thủy sản Việt Úc,2026-03-19,P003,90000
+LOT004,GIT,Công ty TNHH Thông Thuận,2026-03-22,P004,150000
+LOT005,GIT,Tập đoàn Thủy sản Việt Úc,2026-03-30,P005,130000

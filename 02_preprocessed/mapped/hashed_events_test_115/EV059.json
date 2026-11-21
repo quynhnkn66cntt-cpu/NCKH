@@ -1,0 +1,18 @@
+{
+    "eventID": "EV059",
+    "batchID": "FB054",
+    "eventType": "FEEDING",
+    "actorID": "F002",
+    "timestamp": "2026-05-12T08:00:00",
+    "data": {
+        "feedBatchID": "FB054",
+        "brand": "Grobest",
+        "feedType": "grower",
+        "pondID": "P004",
+        "farmID": "F002",
+        "quantity": 145.0
+    },
+    "dataHash": "8f43bcaabc07af6dbc4019251062931e2934e039650d185b6075c6f652a40950",
+    "previousEventHash": "520f3c1e19cd9f7ea80771a382d0e9682bd9d74f8827122f5fd13e07a89ec53c",
+    "currentHash": "876153e626ae033ecb8cd8ad9b780786c9d1011e0b4711663f904b124390656c"
+}

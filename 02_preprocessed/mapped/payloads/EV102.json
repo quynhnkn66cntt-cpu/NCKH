@@ -1,0 +1,13 @@
+{
+    "eventID": "EV102",
+    "batchID": "PR001",
+    "eventType": "PROCESSING",
+    "actorID": "PL001",
+    "timestamp": "2026-05-25T15:00:00",
+    "data": {
+        "processingLotID": "PR001",
+        "harvestLotID": "H001",
+        "plantID": "PL001",
+        "output_Qty": 2200.0
+    }
+}

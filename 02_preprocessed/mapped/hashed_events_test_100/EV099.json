@@ -1,0 +1,17 @@
+{
+    "eventID": "EV099",
+    "batchID": "H003",
+    "eventType": "HARVEST",
+    "actorID": "F002",
+    "timestamp": "2026-05-29T06:20:00",
+    "data": {
+        "harvestLotID": "H003",
+        "pondID": "P003",
+        "farmID": "F002",
+        "quantityKg": 1485.0,
+        "qualityNote": "Đạt chuẩn, tỷ lệ sống thấp do vấn đề môi trường"
+    },
+    "dataHash": "ac8238b754b6ff6cc4968dd3a9e425018b3e633bfaa5f67ca64e8d39a642427b",
+    "previousEventHash": "f49f2736191c9d38f1a146423d7aaa44b0e296dc6809356a46978a0979bc9c0b",
+    "currentHash": "40db9a008b2ac90a164e5db4f8ae29a4dc95d5dbeda38055b4533788194b46ac"
+}

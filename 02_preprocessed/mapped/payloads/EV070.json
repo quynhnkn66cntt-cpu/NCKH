@@ -1,0 +1,15 @@
+{
+    "eventID": "EV070",
+    "batchID": "FB065",
+    "eventType": "FEEDING",
+    "actorID": "F003",
+    "timestamp": "2026-04-20T08:00:00",
+    "data": {
+        "feedBatchID": "FB065",
+        "brand": "De Heus",
+        "feedType": "grower",
+        "pondID": "P005",
+        "farmID": "F003",
+        "quantity": 82.0
+    }
+}

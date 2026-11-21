@@ -1,0 +1,13 @@
+{
+    "eventID": "EV108",
+    "batchID": "S002",
+    "eventType": "SHIPPING",
+    "actorID": "T002",
+    "timestamp": "2026-05-30T20:30:00",
+    "data": {
+        "shipmentID": "S002",
+        "processingLotID": "PR002",
+        "transporterID": "T002",
+        "destination": "TP.HCM"
+    }
+}

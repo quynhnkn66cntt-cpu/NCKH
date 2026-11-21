@@ -1,0 +1,15 @@
+{
+    "eventID": "EV083",
+    "batchID": "TR003",
+    "eventType": "TREATMENT",
+    "actorID": "F001",
+    "timestamp": "2026-05-10T08:00:00",
+    "data": {
+        "treatmentID": "TR003",
+        "productName": "Vitamin C",
+        "purpose": "Tăng sức đề kháng",
+        "pondID": "P001",
+        "farmID": "F001",
+        "dosage": "5 g/kg thức ăn"
+    }
+}

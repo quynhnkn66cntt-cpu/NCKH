@@ -1,0 +1,16 @@
+{
+    "eventID": "EV003",
+    "batchID": "LOT003",
+    "eventType": "SEED_STOCKING",
+    "actorID": "F002",
+    "timestamp": "2026-03-19T08:00:00",
+    "data": {
+        "seedLotID": "LOT003",
+        "speciesCode": "PNV",
+        "supplier": "Tập đoàn Thủy sản Việt Úc",
+        "pondID": "P003",
+        "farmID": "F002",
+        "farmName": "Trại nuôi Cà Mau",
+        "quantity": 90000
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "eventID": "EV101",
+    "batchID": "H005",
+    "eventType": "HARVEST",
+    "actorID": "F003",
+    "timestamp": "2026-06-18T06:40:00",
+    "data": {
+        "harvestLotID": "H005",
+        "pondID": "P005",
+        "farmID": "F003",
+        "quantityKg": 3157.0,
+        "qualityNote": "Đạt chuẩn tốt, chỉ bổ sung dinh dưỡng định kỳ"
+    },
+    "dataHash": "fbe4b3da42f69654cc5c3d0371a237ffe8e5ec647d7c3264d3f518b232374556",
+    "previousEventHash": "0249b2b886dd5eb847ab57f71bcebb985cbb74ff3f898d84eb37fda8eb47850e",
+    "currentHash": "80d25aa04d82eac4a08c79ed4f71dd17bf9a65961b56084eb14179e64b27ac5d"
+}

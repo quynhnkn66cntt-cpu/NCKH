@@ -1,0 +1,19 @@
+Original events: 116
+Fabric records retrieved: 116
+
+LIVE FABRIC TAMPERING TEST RESULTS
+=================================================================
+Case                     Tested   Detected       Rate
+-----------------------------------------------------------------
+QUANTITY                     80         80    100.00%
+TIMESTAMP                   116        116    100.00%
+ACTORID                     116        116    100.00%
+PREVIOUSEVENTHASH           116        116    100.00%
+DELETE_FIELD                116        116    100.00%
+REPLACE_PAYLOAD             116        116    100.00%
+DOSAGE                       16         16    100.00%
+-----------------------------------------------------------------
+TOTAL                       676        676    100.00%
+
+Original JSON files were NOT modified.
+No blockchain transactions were submitted.

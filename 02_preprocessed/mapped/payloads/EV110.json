@@ -1,0 +1,13 @@
+{
+    "eventID": "EV110",
+    "batchID": "S004",
+    "eventType": "SHIPPING",
+    "actorID": "T003",
+    "timestamp": "2026-06-21T18:00:00",
+    "data": {
+        "shipmentID": "S004",
+        "processingLotID": "PR004",
+        "transporterID": "T003",
+        "destination": "Cà Mau"
+    }
+}
